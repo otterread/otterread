@@ -35,12 +35,6 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-
-# Cloudflare related
-/.save.next
-/.worker-next
-/.wrangler
-
 # wrangler files
 .wrangler
 .dev.vars
