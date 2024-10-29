@@ -1,4 +1,4 @@
-import crypto from "crypto";
+import crypto from "node:crypto";
 
 const k = "qFWY2XdXAATnZ8feI3dBjUcUlhkbqkhV";
 const encryption = (data: string) => {
