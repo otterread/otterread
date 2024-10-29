@@ -1,6 +1,6 @@
 import type { NextRequest } from "next/server";
 import { NextResponse } from "next/server";
-import { encrypt } from "@/lib";
+import { encrypt } from "@/lib/crypto";
 
 export const runtime = "edge";
 
