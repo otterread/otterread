@@ -1,5 +1,3 @@
-"use server";
-
 import crypto from "crypto";
 
 const k = "qFWY2XdXAATnZ8feI3dBjUcUlhkbqkhV";
