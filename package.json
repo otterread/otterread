@@ -13,7 +13,6 @@
     "cf-typegen": "wrangler types --env-interface CloudflareEnv env.d.ts"
   },
   "dependencies": {
-    "app-store-server-api": "^0.16.0",
     "dayjs": "^1.11.13",
     "next": "14.2.5",
     "react": "^18",
